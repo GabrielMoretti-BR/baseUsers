@@ -1,4 +1,5 @@
-"Users":[
+{
+      "Users":[
       {
         "_id": "63a0b545de7d7573271ca80c",
         "picture": "http://placehold.it/32x32",
@@ -168,3 +169,4 @@
         "create_at": "2020-07-30T05:05:58 +03:00"
       }
     ]
+}
